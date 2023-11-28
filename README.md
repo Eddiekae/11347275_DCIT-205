@@ -19,7 +19,15 @@ To clone and set up the project, follow these steps:
 
 ## Screenshots
 
-- Include screenshots of each page in the `screenshots` folder.
+- Include screenshots of each page in the `<img width="960" alt="about" src="https://github.com/Eddiekae/11347275_DCIT-205/assets/129268479/406e364a-c86a-4527-9d42-1be5905c9653"> , <img width="960" alt="Catalog" src="https://github.com/Eddiekae/11347275_DCIT-205/assets/129268479/fb623782-b818-45a8-aa40-fe2286147a8a">,<img width="960" alt="resource" src="https://github.com/Eddiekae/11347275_DCIT-205/assets/129268479/cf0f88f8-e0a0-4d0c-8def-841ac0b76b68">,
+ <img width="960" alt="Events" src="https://github.com/Eddiekae/11347275_DCIT-205/assets/129268479/0c23a7b8-5db8-441f-b95d-d20d8400e76b">,<img width="960" alt="Contacts" src="https://github.com/Eddiekae/11347275_DCIT-205/assets/129268479/830cf24d-45f2-4f37-9840-e2b31fbf56bf"><img width="957" alt="Student Projects" src="https://github.com/Eddiekae/11347275_DCIT-205/assets/129268479/df3077d3-0f53-4161-9a86-9754bfa37268"><img width="959" alt="Staff Profile" src="https://github.com/Eddiekae/11347275_DCIT-205/assets/129268479/f17945e5-62a9-40af-a49e-28b6e93147e0"><img width="960" alt="Research Page" src="https://github.com/Eddiekae/11347275_DCIT-205/assets/129268479/aace6447-fa02-4abe-b485-d331fb1fefae"><img width="960" alt="Alumini Page" src="https://github.com/Eddiekae/11347275_DCIT-205/assets/129268479/9335ae30-7a1f-4579-afd9-3d28287c816a">
+
+
+
+
+
+
+folder.
 
 ## Lessons Learned
 
